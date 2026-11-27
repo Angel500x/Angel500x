@@ -3,11 +3,11 @@
 
 <img src="https://github.com/Angel500x.png" width="125" alt="Angel500x profile"/>
 
-# ANGEL500X
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=75&text=ANGEL500X&fontSize=45&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="ANGEL500X"/>
 
-### SOFTWARE DEVELOPER
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=SOFTWARE%20DEVELOPER&fontSize=22&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="Software Developer"/>
 
-`Building ideas. Writing code. Creating solutions.`
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=Building%20ideas.%20Writing%20code.%20Creating%20solutions.&fontSize=15&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="Building ideas. Writing code. Creating solutions."/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050505,50:008FCC,100:050505" width="100%"/>
 
@@ -15,6 +15,7 @@
 [![Repositories](https://img.shields.io/badge/Repositories-0D1117?style=flat-square&logo=git&logoColor=00AEEF)](https://github.com/Angel500x?tab=repositories)
 
 </div>
+
 
 ---
 
