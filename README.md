@@ -68,9 +68,9 @@ continuous learning and experimentation.
 
 ---
 
-## GITHUB ANALYTICS
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=GITHUB%20ANALYTICS&fontSize=25&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="GitHub Analytics"/>
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Angel500x&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=00AEEF&text_color=00FF00&icon_color=00AEEF&rank_icon=github" alt="GitHub statistics"/>
 
