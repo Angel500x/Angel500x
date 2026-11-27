@@ -40,32 +40,40 @@ continuous learning and experimentation.
 ---
 
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=TECH%20STACK&fontSize=25&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="Tech Stack"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=TECH%20STACK&fontSize=25&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="Tech Stack"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=PROGRAMMING%20LANGUAGES&fontSize=19&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="Programming Languages"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=PROGRAMMING%20LANGUAGES&fontSize=19&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="Programming Languages"/>
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00AEEF)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00AEEF)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00AEEF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00AEEF)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00AEEF)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00AEEF)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00AEEF" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00AEEF" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00AEEF" alt="Bash"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00AEEF" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00AEEF" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00AEEF" alt="CSS3"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=FRAMEWORKS%20%26%20DATABASES&fontSize=19&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="Frameworks and Databases"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=FRAMEWORKS%20%26%20DATABASES&fontSize=19&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="Frameworks and Databases"/>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=00AEEF)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00AEEF)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00AEEF)
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=00AEEF" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00AEEF" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00AEEF" alt="SQL"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=SYSTEMS%20%26%20TOOLS&fontSize=19&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="Systems and Tools"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=SYSTEMS%20%26%20TOOLS&fontSize=19&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="Systems and Tools"/>
 
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00AEEF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00AEEF)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00AEEF)
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00AEEF" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00AEEF" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00AEEF" alt="GitHub"/>
+</p>
 
 </div>
+
 
 
 ### FRAMEWORKS & DATABASES
