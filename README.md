@@ -39,11 +39,12 @@ continuous learning and experimentation.
 
 ---
 
-## TECH STACK
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=TECH%20STACK&fontSize=25&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="Tech Stack"/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=PROGRAMMING%20LANGUAGES&fontSize=19&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="Programming Languages"/>
 
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00AEEF)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00AEEF)
@@ -51,6 +52,21 @@ continuous learning and experimentation.
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00AEEF)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00AEEF)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00AEEF)
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=FRAMEWORKS%20%26%20DATABASES&fontSize=19&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="Frameworks and Databases"/>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=00AEEF)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00AEEF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00AEEF)
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=SYSTEMS%20%26%20TOOLS&fontSize=19&fontColor=00FF00&fontAlign=50&fontAlignY=60" width="100%" alt="Systems and Tools"/>
+
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00AEEF)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00AEEF)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00AEEF)
+
+</div>
+
 
 ### FRAMEWORKS & DATABASES
 
